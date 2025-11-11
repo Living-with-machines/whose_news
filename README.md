@@ -6,9 +6,9 @@ Below is a short summary of the article containing links to relevant work and da
 
 Please contact us with any questions or suggestions. We would be delighted to hear from anyone making use of the accompanying datasets we are also publishing.
 
-    Kaspar Beelen, Jon Lawrence, Katherine McDonough, and Daniel C. S. Wilson. ‘Whose News? Critical Methods for Assessing Bias in Large Historical Datasets’. Computational Humanities Research 1 (January 2025): e8. https://doi.org/10.1017/chr.2025.10007.
+`Kaspar Beelen, Jon Lawrence, Katherine McDonough, and Daniel C. S. Wilson. ‘Whose News? Critical Methods for Assessing Bias in Large Historical Datasets’. Computational Humanities Research 1 (2025).
 
-![CHR](https://hackmd.io/_uploads/SkElID0agx.png)
+[<img src="blog/chrlogo.png" width="600">](https://www.cambridge.org/core/journals/computational-humanities-research)
 ---
 ### !! Stop Press!!
 
@@ -47,7 +47,7 @@ We use the descriptions of newspaper titles given by nineteenth-century referenc
 
 This figure shows the proportion of newspapers by political leaning included in the BNA as compared to the proportions expected based on data from the press directories. Dashed lines show the proportional presence of each leaning in the sample (BNA), while the dotted line represents the population (press directories). The top-left figure shows trends for Liberal newspapers (grey); the top-right Conservative newspapers (black). The bottom-left figure shows Neutral newspapers (grey); the bottom-right Independent titles (black).
 
-![fig7](https://hackmd.io/_uploads/HywOSPApex.png)
+![fig7](blog/fig7.png)
 
 
 ---
