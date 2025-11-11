@@ -17,7 +17,7 @@ We are delighted to share our article '[Whose News](https://doi.org/10.1017/chr.
 
 ---
 
-### Whose News? 
+### Whose News? A blogpost.
 
 When a researcher, a student or member of the public attempts to search a large historical dataset, perhaps making use of an interface provided by a library (or commercial provider), how can they tell what their results represent? Are twenty 'hits' a lot? Or a thousand? How many should you expect? The answer depends on how many documents, and what types, were included in the collection being searched. But perhaps the keyword had a specific political meaning? And what if the documents being searched rarely published that word because they opposed the perspective it implied? Or perhaps the publications where it tended to appear at the time have not yet been digitised? Or, if they have been, perhaps the OCR is systematically worse for some reason, causing that word to be obscured and effectively invisible?
 
