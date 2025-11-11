@@ -34,11 +34,11 @@ The provenance of the digitised collection served up to subscribers to *The Brit
 Before being able to quantify empirically which viewpoints are potentially missing from large collections, we set out three forms of 'bias' which may be significant for newspaper researchers to consider:
 
 
-    1. **Bias-as-missingness**. This involves gaps in the data due to under-digitisation, in relation to the printed corpus 'out there'.
+1. **Bias-as-missingness**. This involves gaps in the data due to under-digitisation, in relation to the printed corpus 'out there'.
 
-    2. **Bias-as-divergence**. This involves the implications of missingness in terms of 'representativeness': which voices tend to be over- or under-sampled in the digitised corpus as a result?
+2. **Bias-as-divergence**. This involves the implications of missingness in terms of 'representativeness': which voices tend to be over- or under-sampled in the digitised corpus as a result?
 
-    3. **Bias-as-partisanship**. This involves the political bias implicit in the data itself.
+3. **Bias-as-partisanship**. This involves the political bias implicit in the data itself.
 
 This typology is far from exhaustive but suggests concrete ways that missingness shapes collections, and risks producing datasets that are skewed in their composition and partisan in their content. Our goal in the article is to suggest a method for consiering ways that missing data can influence our analysis and findings as researchers.
 
@@ -54,11 +54,11 @@ This figure shows the proportion of newspapers by political leaning included in 
 
 The principal contribution of the article is, therefore, to harness different types of metadata as diagnostic tools for gauging latent imbalances and biases in the collection. Our approach in this respect represents a multidisciplinary effort combining historical understanding of how newspaper collections were created, with statistical measures to gauge and analyse hidden biases. This requires broadening traditional notions of metadata as collected in library catalogues to incorporate terminologies and classifications gathered from contemporary (nineteenth-century) reference works. We propose a method that combines well-known types of descriptive metadata (e.g., titles and dates of publication) and administrative metadata (related to digitisation or digital formatting) with a new level of information that we term contemporary ***reference metadata***. This is metadata that:
 
-    • has its origins outside the object of inquiry and is derived from a reference publication;
+• has its origins outside the object of inquiry and is derived from a reference publication;
 
-    • provides contextual information in the language of past actors;
+• provides contextual information in the language of past actors;
 
-    • sheds light on how the dataset represents only a sample from a wider potentially unpreserved population.
+• sheds light on how the dataset represents only a sample from a wider potentially unpreserved population.
 
 
 The principles behind the Environmental Scan could be applied to any big data collection where researchers are able to secure open access to reference metadata, or contextual information rich enough to shed light on its hidden biases. With historical big data, we argue that the key is to identify, digitise, and structure high-quality information collated at the time of data creation. 
